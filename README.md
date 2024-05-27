@@ -1,15 +1,7 @@
-<h2>FOKUS | Projeto para otimizar a sua produtividade! 🚀⏳</h2>
+<h2>WaveCast | Projeto para ouvir os melhores PodCast! 🎧</h2>
 
 <h3>📖 Sobre</h3>
-<ul>
-  <li>Criar Lista de Tarefas</li>
-  <li>Temporizar tempo de foco na tarefa</li>
-  <li>Temporizar o tempo de descanso curtos e longos</li>
-  <li>Música para concentrar ou relaxar durante esse período</li>
-  <li>Editar tarefas</li>
-  <li>Concluir Tarefas</li>
-  <li>Remover Tarefas</li>
-</ul>
+<p>O WaveCast é uma plataforma revolucionária de streaming de podcasts que visa proporcionar a melhor experiência auditiva para os entusiastas de podcasts. Com uma interface amigável e recursos avançados, os usuários podem descobrir, ouvir e gerenciar seus podcasts favoritos de forma eficiente.</p>
 
 ## 🚀 Tecnologias
 <div>
